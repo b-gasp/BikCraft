@@ -1,0 +1,98 @@
+.interna-contato {
+  background: url("../img/bg-contato.jpg") no-repeat center;
+  background-size: cover;
+}
+
+.contato {
+  margin: 60px auto 0 auto;
+}
+.form {
+  padding-right: 50px;
+}
+.contato .form label {
+  display: block;
+  color: #fec63f;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 18px;
+  line-height: 25px;
+  margin-bottom: 4px;
+}
+.form input {
+  display: block;
+  width: 100%;
+  background: none;
+  border: 3px solid #fec63f;
+  padding: 7px 10px;
+  color: #000;
+  font-size: 14px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  margin-bottom: 10px;
+}
+.form textarea {
+  display: block;
+  width: 100%;
+  height: 120px;
+  background: none;
+  border: 3px solid #fec63f;
+  padding: 7px 10px;
+  color: #000;
+  font-size: 14px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  margin-bottom: 10px;
+}
+.form button {
+  background: none;
+  margin-top: 15px;
+  margin-bottom: 25px;
+}
+.contato-dados {
+  color: #000;
+}
+.contato-dados h3 {
+  font-size: 18px;
+  font-weight: bold;
+  line-height: 28px;
+  text-transform: uppercase;
+  color: #fec63f;
+}
+.contato-dados span {
+  display: block;
+  font-size: 18px;
+  line-height: 30px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+.dados-email {
+  margin-bottom: 40px;
+}
+.contato-dados p {
+  padding: 18px 0 5px;
+}
+
+.redes-contato h3 {
+  font-size: 18px;
+  font-weight: bold;
+  line-height: 28px;
+  text-transform: uppercase;
+  color: #fec63f;
+  padding-top: 30px;
+  padding-bottom: 10px;
+}
+.redes-contato ul li {
+  display: inline-block;
+  margin-right: 10px;
+}
+.redes-contato ul li a {
+  border: 3px solid #fec63f;
+  display: block;
+  padding: 10px;
+}
+.redes-contato ul li a:hover {
+  border-color: #fff;
+}
+.mapa-contato {
+  margin: 25px auto 40px;
+}
+
+.footer {
+  margin-bottom: 0;
+}
